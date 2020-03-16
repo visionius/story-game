@@ -1,5 +1,5 @@
 /*
-	"life story" is adven game is for those who wants to play something diffrente
+	"life story" is adven game for those who wants to play something diffrente
 	By mohammad hossein asghari
 
 */
